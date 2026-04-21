@@ -442,12 +442,3 @@ python adas_annotation.py
 * Sensor fusion with radar
 * Improved depth completion
 * Robust QA dashboard
-
----
-
-If you want next, I can help you build:
-
-* v2 production architecture (modular + scalable)
-* Docker + GPU deployment
-* Real-time streaming version
-* Resume-level project description
