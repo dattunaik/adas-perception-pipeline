@@ -1,7 +1,3 @@
-Below is a **clean, production-style README (no icons, no fluff)** with structured tables, clear script-level documentation, inputs/outputs, and limitations.
-
----
-
 # ADAS LiDAR–Camera Fusion Pipeline (v1)
 
 ## 1. Overview
